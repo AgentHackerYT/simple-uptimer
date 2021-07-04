@@ -17,5 +17,5 @@
 ```js
 .uptime.exit() // basically process.exit()
 ```
-NPM Link
+# NPM Link
 [LINK](https://www.npmjs.com/package/simple-uptimer)
